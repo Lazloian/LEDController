@@ -1,0 +1,10 @@
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\bin\Debug\LEDController.exe.config
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\bin\Debug\LEDController.exe
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\bin\Debug\LEDController.pdb
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\obj\Debug\LEDController.Form1.resources
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\obj\Debug\LEDController.Properties.Resources.resources
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\obj\Debug\LEDController.csproj.GenerateResource.cache
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\obj\Debug\LEDController.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\obj\Debug\LEDController.exe
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\obj\Debug\LEDController.pdb
+C:\Users\Henry\Google Drive\Visual Studio\LEDController\LEDController\LEDController\obj\Debug\LEDController.csprojAssemblyReference.cache
